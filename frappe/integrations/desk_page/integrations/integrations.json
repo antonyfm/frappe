@@ -3,7 +3,7 @@
   {
    "hidden": 0,
    "label": "Backup",
-   "links": "[\n    {\n        \"description\": \"Dropbox backup settings\",\n        \"label\": \"Dropbox Settings\",\n        \"name\": \"Dropbox Settings\",\n        \"type\": \"doctype\"\n    },\n    {\n        \"description\": \"S3 Backup Settings\",\n        \"label\": \"S3 Backup Settings\",\n        \"name\": \"S3 Backup Settings\",\n        \"type\": \"doctype\"\n    },\n    {\n        \"description\": \"Google Drive Backup.\",\n        \"label\": \"Google Drive\",\n        \"name\": \"Google Drive\",\n        \"type\": \"doctype\"\n    }\n]"
+   "links": "[\n    {\n        \"description\": \"Dropbox backup settings\",\n        \"label\": \"Dropbox Settings\",\n        \"name\": \"Dropbox Settings\",\n        \"type\": \"doctype\"\n    },\n    {\n        \"description\": \"S3 Backup Settings\",\n        \"label\": \"S3 Backup Settings\",\n        \"name\": \"S3 Backup Settings\",\n        \"type\": \"doctype\"\n    },\n    {\n        \"description\": \"Google Drive Backup.\",\n        \"label\": \"Google Drive\",\n        \"name\": \"Google Drive\",\n        \"type\": \"doctype\"\n    },\n    {\n        \"description\": \"DO Spaces Backup Settings\",\n        \"label\": \"DO Spaces Backup Settings\",\n        \"name\": \"DO Spaces Backup Settings\",\n        \"type\": \"doctype\"\n    }\n]"
   },
   {
    "hidden": 0,
